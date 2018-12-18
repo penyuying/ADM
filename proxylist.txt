@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2018-11-21 06:00:02
+!--- 2018-12-18 14:55:13
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -238,6 +238,7 @@ free-ss.site
 blog.fuckgfw233.org
 globalvoices.org
 glorystar.me
+goregrish.com
 hbo.com
 hudson.org
 ipfs.io
@@ -249,9 +250,10 @@ line-scdn.net
 i.lithium.com
 cloud.mail.ru
 cdn-images.mailchimp.com
+mastodon.host
 mohu.club
 mohu.ml
-mastodon.host
+motiyun.com
 msa-it.org
 dictionary.goo.ne.jp
 go.nesnode.com
@@ -285,6 +287,7 @@ tn2.shemalez.com
 tn3.shemalez.com
 static.shemalez.com
 sosreader.com
+sspanel.net
 sulian.me
 supchina.com
 teddysun.com
@@ -307,6 +310,7 @@ whatsonweibo.com
 wire.com
 xm.com
 xuehua.us
+zzcloud.me
 allcoin.com
 adcex.com
 bcex.ca
@@ -624,6 +628,7 @@ chromercise.com
 chromestatus.com
 chromium.org
 com.google
+crbug.com
 creativelab5.com
 crisisresponse.google
 crrev.com
@@ -642,6 +647,7 @@ g.co
 gcr.io
 get.app
 get.how
+get.page
 getmdl.io
 getoutline.org
 ggpht.com
@@ -774,6 +780,7 @@ tiltbrush.com
 urchin.com
 waveprotocol.org
 waymo.com
+web.dev
 webmproject.org
 webrtc.org
 whatbrowser.org
@@ -2744,6 +2751,7 @@ internet.org
 internetdefenseleague.org
 internetfreedom.org
 internetpopculture.com
+inthenameofconfuciusmovie.com
 inxian.com
 ipalter.com
 ipfire.org
@@ -3940,6 +3948,7 @@ rthk.org.hk
 rti.org.tw
 rtycminnesota.org
 rukor.org
+runbtx.com
 rushbee.com
 ruten.com.tw
 rutube.ru
@@ -4206,6 +4215,7 @@ speakerdeck.com
 speedify.com
 spem.at
 spencertipping.com
+spendee.com
 spicevpn.com
 spideroak.com
 spike.com
