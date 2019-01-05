@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2019-01-01 06:00:03
+!--- 2019-01-06 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -10,6 +10,7 @@ google.com.de
 google.cn
 blogspot.com
 btaia.com
+btsow.pw
 bt2mag.com
 iobit.com
 t.me
