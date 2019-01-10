@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2019-01-06 06:00:02
+!--- 2019-01-11 06:00:02
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -21,6 +21,8 @@ s1.amazonaws.com
 agnesb.fr
 akiba-web.com
 altrec.com
+angela-merkel.de
+angola.org
 apartmentratings.com
 apartments.com
 arena.taipei
@@ -226,15 +228,18 @@ xn--p8j9a0d9c9a.xn--q9jyb4c
 s3-ap-southeast-2.amazonaws.com
 agro.hk
 apkmirror.com
+arte.tv
 behance.net
 bird.so
 zh.bitterwinter.org
 businessinsider.com
 boomssr.com
 castbox.fm
+clyp.it
 cmcn.org
 cmx.im
 depositphotos.com
+doubmirror.cf
 fangeqiang.com
 flyzy2005.com
 foreignpolicy.com
@@ -255,6 +260,7 @@ i.lithium.com
 cloud.mail.ru
 cdn-images.mailchimp.com
 mastodon.host
+matters.news
 mohu.club
 mohu.ml
 motiyun.com
@@ -266,6 +272,7 @@ nikkei.com
 nofile.io
 now.com
 sukebei.nyaa.si
+openvpn.org
 onejav.com
 paste.ee
 my.pcloud.com
@@ -279,6 +286,7 @@ cdn.seatguru.com
 secure.raxcdn.com
 redd.it
 reddit.com
+redditlist.com
 redditmedia.com
 redditstatic.com
 rixcloud.com
@@ -290,6 +298,7 @@ tn1.shemalez.com
 tn2.shemalez.com
 tn3.shemalez.com
 static.shemalez.com
+softsmirror.cf
 sosreader.com
 sspanel.net
 sulian.me
@@ -303,6 +312,7 @@ unseen.is
 cn.uptodown.com
 uraban.me
 vrsmash.com
+vultryhw.com
 scache.vzw.com
 scache1.vzw.com
 scache2.vzw.com
@@ -358,6 +368,7 @@ kspcoin.com
 kucoin.com
 lbank.info
 livecoin.net
+localbitcoins.com
 oex.com
 okex.com
 otcbtc.com
@@ -1980,6 +1991,7 @@ eu.org
 eucasino.com
 eulam.com
 eurekavpt.com
+euronews.com
 eeas.europa.eu
 evschool.net
 exblog.jp
@@ -2318,6 +2330,7 @@ haoel.github.io
 sikaozhe1997.github.io
 sodatea.github.io
 terminus2049.github.io
+toutyrater.github.io
 wsgzao.github.io
 gizlen.net
 gjczz.com
