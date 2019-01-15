@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2019-01-11 06:00:02
+!--- 2019-01-16 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -15,8 +15,7 @@ bt2mag.com
 iobit.com
 t.me
 s3.amazonaws.com
-s2.amazonaws.com
-s1.amazonaws.com
+google.github.io
 85.17.73.31
 agnesb.fr
 akiba-web.com
@@ -102,6 +101,7 @@ hybrid-analysis.com
 ilovelongtoes.com
 imgur.com
 imlive.com
+tw.iqiyi.com
 javhub.net
 javhuge.com
 javlibrary.com
@@ -238,6 +238,7 @@ castbox.fm
 clyp.it
 cmcn.org
 cmx.im
+dailyview.tw
 depositphotos.com
 doubmirror.cf
 fangeqiang.com
@@ -249,6 +250,7 @@ globalvoices.org
 glorystar.me
 goregrish.com
 hbo.com
+hkgalden.com
 hudson.org
 ipfs.io
 japantimes.co.jp
@@ -298,6 +300,7 @@ tn1.shemalez.com
 tn2.shemalez.com
 tn3.shemalez.com
 static.shemalez.com
+six-degrees.io
 softsmirror.cf
 sosreader.com
 sspanel.net
@@ -324,7 +327,10 @@ whatsonweibo.com
 wire.com
 xm.com
 xuehua.us
+yes-news.com
+you-get.org
 zzcloud.me
+aex.com
 allcoin.com
 adcex.com
 bcex.ca
@@ -334,17 +340,22 @@ binance.com
 bit-z.com
 bitcoinworld.com
 bitfinex.com
+bithumb.com
 bitinka.com.ar
 bitmex.com
+btc98.com
 btcbank.bank
 btctrade.im
 c2cx.com
 chaoex.com
+cobinhood.com
 coin2co.in
+coinbene.com
 coinegg.com
 coinex.com
 coingi.com
 coinrail.co.kr
+cointiger.com
 cointobe.com
 coinut.com
 discoins.com
@@ -357,6 +368,7 @@ exx.com
 fatbtc.com
 gate.io
 gatecoin.com
+hbg.com
 hitbtc.com
 huobi.com
 huobi.pro
@@ -369,6 +381,7 @@ kucoin.com
 lbank.info
 livecoin.net
 localbitcoins.com
+mercatox.com
 oex.com
 okex.com
 otcbtc.com
@@ -1204,6 +1217,7 @@ bailandaily.com
 baixing.me
 bakgeekhome.tk
 banana-vpn.com
+band.us
 bandwagonhost.com
 bangbrosnetwork.com
 bangchen.net
@@ -1922,6 +1936,7 @@ eisbb.com
 eksisozluk.com
 electionsmeter.com
 elgoog.im
+ellawine.org
 elpais.com
 eltondisney.com
 emaga.com
@@ -2327,6 +2342,7 @@ github.com
 gist.github.com
 hahaxixi.github.io
 haoel.github.io
+rg3.github.io
 sikaozhe1997.github.io
 sodatea.github.io
 terminus2049.github.io
@@ -4319,6 +4335,7 @@ surfeasy.com.au
 surrenderat20.net
 suyangg.com
 svsfx.com
+swissinfo.ch
 swissvpn.net
 switchvpn.net
 sydneytoday.com
@@ -4429,6 +4446,7 @@ thehun.net
 theinitium.com
 thenewslens.com
 thepiratebay.org
+theporndude.com
 theportalwiki.com
 thereallove.kr
 therock.net.nz
@@ -4876,6 +4894,7 @@ vanemu.cn
 vanilla-jp.com
 vanpeople.com
 vansky.com
+vaticannews.va
 vcf-online.org
 vcfbuilder.org
 velkaepocha.sk
@@ -5259,7 +5278,6 @@ yes.xxx
 yes123.com.tw
 yesasia.com
 yesasia.com.hk
-yes-news.com
 yespornplease.com
 yeyeclub.com
 yhcw.net
