@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2019-01-16 06:00:01
+!--- 2019-01-21 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -45,6 +45,7 @@ chobit.cc
 clearsurance.com
 images.comico.tw
 static.comico.tw
+counter.social
 costco.com
 crossfire.co.kr
 d2pass.com
@@ -88,6 +89,8 @@ guo.media
 hautelook.com
 hautelookcdn.com
 wego.here.com
+gamer-cds.cdn.hinet.net
+gamer2-cds.cdn.hinet.net
 hmvdigital.ca
 hmvdigital.com
 homedepot.com
@@ -128,6 +131,7 @@ matome-plus.net
 mattwilcox.net
 metarthunter.com
 mfxmedia.com
+mojim.com
 kb.monitorware.com
 monster.com
 moodyz.com
@@ -152,6 +156,7 @@ nordstrom.com
 nordstromimage.com
 nordstromrack.com
 nottinghampost.com
+npsboost.com
 ntdtv.cz
 s1.nudezz.com
 nusatrip.com
@@ -173,6 +178,7 @@ rd.com
 rdio.com
 riseup.net
 sadistic-v.com
+isc.sans.edu
 shiksha.com
 slacker.com
 sm-miracle.com
@@ -189,6 +195,7 @@ tapanwap.com
 gsp.target.com
 login.target.com
 rcam.target.com
+thinkgeek.com
 thebodyshop-usa.com
 tma.co.jp
 tracfone.com
@@ -196,6 +203,7 @@ tryheart.jp
 turntable.fm
 twerkingbutt.com
 ulop.net
+uukanshu.com
 vegasred.com
 vevo.com
 vip-enterprise.com
@@ -225,44 +233,60 @@ xn--czq75pvv1aj5c.org
 xn--i2ru8q2qg.com
 xn--oiq.cc
 xn--p8j9a0d9c9a.xn--q9jyb4c
+abebooks.com
 s3-ap-southeast-2.amazonaws.com
+43110.cf
 agro.hk
 apkmirror.com
 arte.tv
+bangdream.space
 behance.net
 bird.so
 zh.bitterwinter.org
+bnn.co
 businessinsider.com
 boomssr.com
+bwgyhw.com
 castbox.fm
 clyp.it
 cmcn.org
 cmx.im
 dailyview.tw
 depositphotos.com
+doubibackup.com
 doubmirror.cf
 fangeqiang.com
+cloud.feedly.com
 flyzy2005.com
 foreignpolicy.com
 free-ss.site
 blog.fuckgfw233.org
+g0v.social
 globalvoices.org
 glorystar.me
 goregrish.com
 hbo.com
+spaces.hightail.com
 hkgalden.com
+hkgolden.com
 hudson.org
 ipfs.io
 japantimes.co.jp
 jiji.com
+jintian.net
 jinx.com
+joinmastodon.org
 liangzhichuanmei.com
+lihkg.com
 line-scdn.net
 i.lithium.com
 cloud.mail.ru
 cdn-images.mailchimp.com
+mastodon.cloud
 mastodon.host
+mastodon.social
 matters.news
+metart.com
 mohu.club
 mohu.ml
 motiyun.com
@@ -271,6 +295,7 @@ dictionary.goo.ne.jp
 go.nesnode.com
 international-news.newsmagazine.asia
 nikkei.com
+niu.moe
 nofile.io
 now.com
 sukebei.nyaa.si
@@ -279,11 +304,13 @@ onejav.com
 paste.ee
 my.pcloud.com
 picacomic.com
+pincong.rocks
 pixiv.net
 premproxy.com
 protonvpn.com
 api.pureapk.com
 quora.com
+quoracdn.net
 cdn.seatguru.com
 secure.raxcdn.com
 redd.it
@@ -309,6 +336,7 @@ supchina.com
 teddysun.com
 textnow.me
 tineye.com
+top10vpn.com
 tubepornclassic.com
 uku.im
 unseen.is
@@ -322,6 +350,7 @@ scache2.vzw.com
 ss7.vzw.com
 ssr.tools
 taiwanjustice.net
+tinc-vpn.org
 wenzhao.ca
 whatsonweibo.com
 wire.com
@@ -613,6 +642,7 @@ facebook.hu
 facebook.in
 facebook.nl
 facebook.se
+facebookmail.com
 fb.com
 fb.me
 fbcdn.net
@@ -640,6 +670,7 @@ ai.google
 ampproject.org
 android.com
 androidify.com
+androidtv.com
 api.ai
 appspot.com
 autodraw.com
@@ -888,6 +919,7 @@ tw.mobi.yahoo.com
 tw.myblog.yahoo.com
 tw.news.yahoo.com
 pulse.yahoo.com
+search.yahoo.com
 upcoming.yahoo.com
 video.yahoo.com
 yahoo.com.hk
@@ -960,6 +992,7 @@ taiwannation.50webs.com
 51jav.org
 51luoben.com
 5278.cc
+5299.tv
 5aimiku.com
 5i01.com
 5isotoi5.org
@@ -1163,7 +1196,6 @@ art4tibet1998.org
 artofpeacefoundation.org
 artsy.net
 asacp.org
-asahichinese.com
 asdfg.jp
 asg.to
 asia-gaming.com
@@ -1330,6 +1362,7 @@ bloodshed.net
 bloomberg.cn
 bloomberg.com
 bloomberg.de
+assets.bwbx.io
 bloomfortune.com
 blueangellive.com
 bmfinn.com
@@ -1468,6 +1501,7 @@ cclife.ca
 cclife.org
 cclifefl.org
 ccthere.com
+ccthere.net
 cctmweb.net
 cctongbao.com
 ccue.ca
@@ -1890,6 +1924,7 @@ dwnews.com
 dwnews.net
 xys.dxiong.com
 dynawebinc.com
+dysfz.cc
 dzze.com
 e-classical.com.tw
 e-gold.com
@@ -2584,7 +2619,6 @@ hkfaa.com
 hkfreezone.com
 hkfront.org
 m.hkgalden.com
-hkgolden.com
 hkgreenradio.org
 hkheadline.com
 hkhkhk.com
@@ -3206,6 +3240,7 @@ memorybbs.com
 memri.org
 memrijttm.org
 mercyprophet.org
+mergersandinquisitions.org
 meridian-trust.org
 meripet.biz
 meripet.com
@@ -3226,6 +3261,7 @@ mh4u.org
 mhradio.org
 michaelanti.com
 michaelmarketl.com
+bbs.mikocon.com
 microvpn.com
 middle-way.net
 mihk.hk
@@ -4009,6 +4045,7 @@ cn.sandscotaicentral.com
 sanmin.com.tw
 sapikachu.net
 savemedia.com
+savethesounds.info
 savetibet.de
 savetibet.fr
 savetibet.nl
@@ -4379,6 +4416,7 @@ taiwanyes.com
 taiwan-sex.com
 talk853.com
 talkboxapp.com
+talkcc.com
 talkonly.net
 tamiaode.tk
 tanc.org
