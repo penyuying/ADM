@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2019-04-26 06:00:01
+!--- 2019-05-01 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -5159,11 +5159,7 @@ wikimapia.org
 zh.wikisource.org
 zh.wikinews.org
 ja.wikipedia.org
-zh.wikipedia.org
-ug.m.wikipedia.org
-zh.m.wikipedia.org
-wuu.wikipedia.org
-zh-yue.wikipedia.org
+wikipedia.org
 wikiwiki.jp
 casino.williamhill.com
 sports.williamhill.com
