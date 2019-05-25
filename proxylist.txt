@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2019-05-21 06:00:02
+!--- 2019-05-26 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -221,7 +221,6 @@ ytn.co.kr
 zattoo.com
 zim.vn
 zozotown.com
-1.1.1.1
 14.102.250.18
 14.102.250.19
 50.7.31.230
@@ -235,7 +234,9 @@ xn--p8j9a0d9c9a.xn--q9jyb4c
 abebooks.com
 s3-ap-southeast-2.amazonaws.com
 43110.cf
+9gag.com
 agro.hk
+share.america.gov
 apkmirror.com
 arte.tv
 artstation.com
@@ -278,6 +279,7 @@ jintian.net
 jinx.com
 joinmastodon.org
 liangzhichuanmei.com
+lighti.me
 lihkg.com
 line-scdn.net
 i.lithium.com
@@ -308,6 +310,7 @@ my.pcloud.com
 picacomic.com
 pincong.rocks
 pixiv.net
+potato.im
 premproxy.com
 prism-break.org
 protonvpn.com
@@ -824,6 +827,7 @@ on2.com
 panoramio.com
 picasaweb.com
 pki.goog
+plus.codes
 polymer-project.org
 pride.google
 questvisual.com
@@ -1597,6 +1601,7 @@ chinaxchina.com
 chinalawandpolicy.com
 chinamule.com
 chinamz.org
+chinanewscenter.com
 chinapress.com.my
 china-review.com.ua
 chinarightsia.org
@@ -2962,6 +2967,7 @@ journalofdemocracy.org
 joymiihub.com
 joyourself.com
 jpopforum.net
+fiddle.jshell.net
 jubushoushen.com
 juhuaren.com
 juliereyc.com
@@ -3754,6 +3760,7 @@ pinimg.com
 pinkrod.com
 pinoy-n.com
 pinterest.at
+pinterest.ca
 pinterest.co.kr
 pinterest.co.uk
 pinterest.com
@@ -4687,7 +4694,6 @@ tsemtulku.com
 tsquare.tv
 tsu.org.tw
 tsunagarumon.com
-tt-rss.org
 tt1069.com
 tttan.com
 bb.ttv.com.tw
