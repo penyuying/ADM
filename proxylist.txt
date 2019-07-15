@@ -1,5 +1,5 @@
 !--- [ Proxylist for ADM ]
-!--- 2019-07-11 06:00:02
+!--- 2019-07-16 06:00:01
 !--- UpdateBy: emCupid
 !--- Weibo: http://weibo.com/emcupid/
 !-----------------------------------------------------
@@ -249,14 +249,17 @@ businessinsider.com
 boomssr.com
 bwgyhw.com
 castbox.fm
+chinatimes.com
 clyp.it
 cmcn.org
 cmx.im
 dailyview.tw
 daum.net
 depositphotos.com
+disconnect.me
 doubibackup.com
 doubmirror.cf
+encyclopedia.com
 fangeqiang.com
 cloud.feedly.com
 flyzy2005.com
@@ -707,6 +710,7 @@ deepmind.com
 deja.com
 design.google
 digisfera.com
+dns.google
 domains.google
 duck.com
 environment.google
@@ -1444,6 +1448,7 @@ bullog.org
 bullogger.com
 bunbunhk.com
 busayari.com
+businesstoday.com.tw
 businessweek.com
 busu.org
 busytrade.com
@@ -1609,7 +1614,6 @@ chinasmile.net
 chinasocialdemocraticparty.com
 chinasoul.org
 chinasucks.net
-chinatimes.com
 chinatopsex.com
 chinatown.com.au
 chinatweeps.com
@@ -1853,7 +1857,6 @@ dilber.se
 furl.net
 dipity.com
 directcreative.com
-search.disconnect.me
 discuss.com.hk
 discuss4u.com
 disp.cc
